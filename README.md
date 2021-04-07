@@ -6,7 +6,7 @@
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
   ## Table of Content
   * [ Project Links ](#Project-Links)
-  * [ Screenshots-Demo ](#Screenshots)
+  * [ Code Snippets ](#Screenshots)
   * [ Project Objective ](#Project-Objective)
   * [ User Story ](#User-Story)
   * [ Technologies ](#Technologies)  
@@ -19,7 +19,7 @@
   https://github.com/leskbook/progressive_budget_app<br>
   https://progress-budget-app.herokuapp.com/
   
-  ## Screenshots - Code
+  ## Code Snippets
  <img src="https://github.com/leskbook/progressive_budget_app/blob/main/public/assets/images/Capturetree.PNG">
 <br>
  <img src="https://github.com/leskbook/progressive_budget_app/blob/main/public/assets/images/Capture2.PNG">
