@@ -9,22 +9,21 @@
   * [ Screenshots-Demo ](#Screenshots)
   * [ Project Objective ](#Project-Objective)
   * [ User Story ](#User-Story)
-  * [ Technologies ](#Technologies)
-  * [ Installation ](#Installation)
+  * [ Technologies ](#Technologies)  
   * [ Usage ](#Usage)
-  * [ Credits and Reference ](#Credits-and-Reference)
-  * [ Tests ](#Tests)
+  * [ Credits and Reference ](#Credits-and-Reference)  
   * [ Author Contact ](#Author-Contact)
   * [ License ](#License)
   #
   ##  Project Links
   https://github.com/leskbook/progressive_budget_app<br>
+  https://progress-budget-app.herokuapp.com/
   
   ## Screenshots-Demo
-  
+  <img src="/assets/images/Capturetree.png">
   
   ## Project Objective
-  Add functionality to our existing Budget Tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+  Create a Budget Tracker application to allow for offline access and functionality. The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
   
   ## User Story
   As an avid traveller I want to be able to track my withdrawals and deposits with or without a data/internet connection so that my account balance is accurate when I am traveling.
@@ -32,16 +31,13 @@
   ```
   node, express, morgan, compression, mongodb
   ```
-  
-  ## Installation
-  to be determined
+   
   ## Usage 
-  Click on the link provided
+  Click on the link provided https://progress-budget-app.herokuapp.com/
   
   ## Credits and Reference
   none
-  ## Tests
-  
+    
   ## Author Contact
   Contact the author with any questions!<br>
   Github link: [leskbook](https://github.com/leskbook)<br>
