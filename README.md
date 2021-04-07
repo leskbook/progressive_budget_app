@@ -19,8 +19,12 @@
   https://github.com/leskbook/progressive_budget_app<br>
   https://progress-budget-app.herokuapp.com/
   
-  ## Screenshots-Demo
-  <img src="/Capturetree.png">
+  ## Screenshots - Code
+ <img src="https://github.com/leskbook/progressive_budget_app/blob/main/public/assets/images/Capturetree.PNG">
+<br>
+ <img src="https://github.com/leskbook/progressive_budget_app/blob/main/public/assets/images/Capture2.PNG">
+<br>
+<img src="https://github.com/leskbook/progressive_budget_app/blob/main/public/assets/images/Capture.PNG">
   
   ## Project Objective
   Create a Budget Tracker application to allow for offline access and functionality. The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
